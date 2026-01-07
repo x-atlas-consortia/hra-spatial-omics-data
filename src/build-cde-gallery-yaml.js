@@ -12,11 +12,9 @@ const datasets = JSON.parse(readFileSync(DATASETS, 'utf-8'));
 const data = {
   studies: studies.map((study) => {
     study.thumbnail = study.thumbnail || `thumbnails/${study.slug}.png`;
-    study.datasets = datasets.filter((d) => d.study === study.slug).map((dataset) => {
-      delete dataset.study;
-      dataset.thumbnail = dataset.nodes.replace('-nodes.csv', '-vis.png');
-      return dataset;
-    });
+    study.cellCount = 0;
+    study.datasets = datasets.filter((d) => d.study === study.slug);
+    study.cellCount = study.datasets.map((d) => d.cellCount).reduce((acc, count) => count + acc, 0);
     return study;
   }),
 };
