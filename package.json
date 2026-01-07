@@ -19,6 +19,9 @@
   "homepage": "https://github.com/x-atlas-consortia/hra-spatial-omics-data#readme",
   "dependencies": {
     "glob": "^13.0.0",
+    "js-yaml": "^4.1.1",
+    "pageres": "^9.0.0",
+    "pageres-cli": "^9.0.0",
     "papaparse": "^5.5.3",
     "shelljs": "^0.10.0"
   }

@@ -1,6 +1,6 @@
-import { createReadStream } from 'fs';
-import { createGunzip } from 'zlib';
+import { createReadStream, readFileSync } from 'fs';
 import Papa from 'papaparse';
+import { createGunzip } from 'zlib';
 
 export async function* readLines(inputFile) {
   let inputStream = !inputFile || inputFile === '-' ? process.stdin : createReadStream(inputFile, { autoClose: true });
@@ -43,4 +43,10 @@ export async function* readCsv(input, options = { skipEmptyLines: true, header: 
   } else {
     return createReadStream(input).pipe(Papa.parse(Papa.NODE_STREAM_INPUT, options));
   }
+}
+
+export function readCsvSync(filePath) {
+  const fileContent = readFileSync(filePath, 'utf-8');
+  const results = Papa.parse(fileContent, { header: true, skipEmptyLines: true });
+  return results.data;
 }
