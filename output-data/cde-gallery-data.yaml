@@ -17,7 +17,8 @@ studies:
     technology: CODEX
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-bone_marrow-tan-2024/
-    publication: https://doi.org/10.1016/j.cell.2024.04.013
+    publication:
+      - https://doi.org/10.1016/j.cell.2024.04.013
     cellCount: 1214088
     datasets:
       - study: bonemarrow-codex-chop
@@ -358,7 +359,8 @@ studies:
     technology: CyCIF
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/htan-intestine-sorger-2023/
-    publication: https://doi.org/10.1016/j.cell.2022.12.028
+    publication:
+      - https://doi.org/10.1016/j.cell.2022.12.028
     cellCount: 12758141
     datasets:
       - study: colon-cycif-sorgerlab
@@ -777,7 +779,8 @@ studies:
     technology: Xenium
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/htan-colon-snyder-2024/
-    publication: https://data.humantumoratlas.org/publications/hta10_2025_tbd_rongduo-han
+    publication:
+      - https://data.humantumoratlas.org/publications/hta10_2025_tbd_rongduo-han
     cellCount: 2639215
     datasets:
       - study: colon-xenium-stanford
@@ -1262,9 +1265,9 @@ studies:
     organName: Esophagus
     technology: CODEX
     euiUrl: ''
-    publication: |-
-      * https://doi.org/10.1038/s41592-022-01651-8
-      * https://doi.org/10.5061/DRYAD.G4F4QRFRC 
+    publication:
+      - https://doi.org/10.1038/s41592-022-01651-8
+      - 'https://doi.org/10.5061/DRYAD.G4F4QRFRC '
     cellCount: 45958
     datasets:
       - study: esophagus-codex-stanford
@@ -1306,9 +1309,9 @@ studies:
     technology: CODEX
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-intestine-snyder-2023/
-    publication: |-
-      * https://doi.org/10.1038/s41586-023-05915-x
-      * https://doi.org/10.5061/DRYAD.PK0P2NGRF  
+    publication:
+      - https://doi.org/10.1038/s41586-023-05915-x
+      - 'https://doi.org/10.5061/DRYAD.PK0P2NGRF  '
     cellCount: 2512185
     datasets:
       - study: intestine-codex-stanford
@@ -2355,9 +2358,9 @@ studies:
     technology: CODEX
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-lung-pryhuber-2023/
-    publication: |-
-      * https://doi.org/10.1101/2025.09.23.678129
-      * https://doi.org/10.1038/s41592-024-02563-5 
+    publication:
+      - https://doi.org/10.1101/2025.09.23.678129
+      - 'https://doi.org/10.1038/s41592-024-02563-5 '
     cellCount: 1209309
     datasets:
       - study: lung-codex-urmc
@@ -2424,13 +2427,13 @@ studies:
     technology: CODEX
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/sennet-lymph-node-fan-2023/
-    publication: |-
-      * https://doi.org/10.60586/SNT228.XBSK.467
-      * https://doi.org/10.60586/SNT832.RKFV.643
-      * https://doi.org/10.60586/SNT222.DNBF.782
-      * https://doi.org/10.60586/SNT325.JRSJ.469
-      * https://doi.org/10.60586/SNT584.CWSK.568
-      * https://doi.org/10.60586/SNT625.XDTN.459 
+    publication:
+      - https://doi.org/10.60586/SNT228.XBSK.467
+      - https://doi.org/10.60586/SNT832.RKFV.643
+      - https://doi.org/10.60586/SNT222.DNBF.782
+      - https://doi.org/10.60586/SNT325.JRSJ.469
+      - https://doi.org/10.60586/SNT584.CWSK.568
+      - 'https://doi.org/10.60586/SNT625.XDTN.459 '
     cellCount: 8918845
     datasets:
       - study: lymphnode-codex-yale
@@ -2528,7 +2531,8 @@ studies:
     organName: Maternal fetal interface
     technology: MIBI-TOF
     euiUrl: ''
-    publication: 'https://doi.org/10.1038/s41586-023-06298-9 '
+    publication:
+      - 'https://doi.org/10.1038/s41586-023-06298-9 '
     cellCount: 477747
     datasets:
       - study: maternalfetalinterface-mibitof-stanford
@@ -5901,10 +5905,10 @@ studies:
     organName: Oral cavity
     technology: CODEX
     euiUrl: ''
-    publication: |-
-      * https://doi.org/10.1038/s41467-024-49037-y
-      * https://doi.org/10.1101/2024.12.01.626279
-      * https://doi.org/10.1038/s41467-025-58874-4 
+    publication:
+      - https://doi.org/10.1038/s41467-024-49037-y
+      - https://doi.org/10.1101/2024.12.01.626279
+      - 'https://doi.org/10.1038/s41467-025-58874-4 '
     cellCount: 1412189
     datasets:
       - study: oralcavity-codex-czi
@@ -6183,11 +6187,10 @@ studies:
     technology: GeoMx
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-pancreas-campbell-2024/
-    publication: >-
-      *
-      https://figshare.com/projects/HuBMAP_TMC_-_Pacific_Northwest_National_Laboratory_GeoMX_DSP_Images/256367
-
-      * https://doi.org/10.1101/2025.09.23.678129 
+    publication:
+      - >-
+        https://figshare.com/projects/HuBMAP_TMC_-_Pacific_Northwest_National_Laboratory_GeoMX_DSP_Images/256367
+      - 'https://doi.org/10.1101/2025.09.23.678129 '
     cellCount: 14891875
     datasets:
       - study: pancreas-geomx-ufl
@@ -6399,7 +6402,8 @@ studies:
     technology: Cell DIVE
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-skin-ginty-2023/
-    publication: 'https://doi.org/10.1038/s42003-023-04991-z '
+    publication:
+      - 'https://doi.org/10.1038/s42003-023-04991-z '
     cellCount: 94591
     datasets:
       - study: skin-celldive-ge
@@ -6609,7 +6613,8 @@ studies:
     technology: Confocal Microscopy
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/htan-skin-sorger-2024/
-    publication: 'https://doi.org/10.1038/s41592-025-02824-x '
+    publication:
+      - 'https://doi.org/10.1038/s41592-025-02824-x '
     cellCount: 55255
     datasets:
       - study: skin-confocal-sorgerlab
@@ -6664,9 +6669,9 @@ studies:
     technology: CODEX
     euiUrl: >-
       https://hubmapconsortium.github.io/hra-registrations/hubmap-spleen-fan-2023/
-    publication: |-
-      * https://doi.org/10.1038/s41467-024-55700-1
-      * https://doi.org/10.1101/2021.10.20.465151 
+    publication:
+      - https://doi.org/10.1038/s41467-024-55700-1
+      - 'https://doi.org/10.1101/2021.10.20.465151 '
     cellCount: 992398
     datasets:
       - study: spleen-codex-ufl
@@ -6783,9 +6788,9 @@ studies:
     organName: Tonsil
     technology: CODEX
     euiUrl: ''
-    publication: |-
-      * https://doi.org/10.1038/s41592-022-01651-8
-      * https://doi.org/10.5061/DRYAD.G4F4QRFRC 
+    publication:
+      - https://doi.org/10.1038/s41592-022-01651-8
+      - 'https://doi.org/10.5061/DRYAD.G4F4QRFRC '
     cellCount: 173968
     datasets:
       - study: tonsil-codex-stanford

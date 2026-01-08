@@ -14,9 +14,7 @@ const data = {
     if (study.citation.includes(' ; ')) {
       study.citation = '* ' + study.citation.replaceAll(' ; ', '\n* ');
     }
-    if (study.publication.includes(' ; ')) {
-      study.publication = '* ' + study.publication.replaceAll(' ; ', '\n* ');
-    }
+    study.publication = study.publication.split(/\ \;\ /);
     study.thumbnail = study.thumbnail || `thumbnails/${study.slug}.png`;
     study.cellCount = 0;
     study.datasets = datasets.filter((d) => d.study === study.slug);
