@@ -72,7 +72,7 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
       node-target-value="Endothelial"
       max-edge-distance="1000"
     ></hra-node-dist-vis>
-    <script src="https://cdn.humanatlas.io/ui/node-dist-vis-wc/wc.js" type="module"></script>
+    <script src="https://cdn.humanatlas.io/ui--staging/node-dist-vis-wc/wc.js" type="module"></script>
   </body>
 </html>
 `;
