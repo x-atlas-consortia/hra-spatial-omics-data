@@ -11,10 +11,8 @@ const datasets = JSON.parse(readFileSync(DATASETS, 'utf-8'));
 
 const data = {
   studies: studies.map((study) => {
-    if (study.citation.includes(' ; ')) {
-      study.citation = '* ' + study.citation.replaceAll(' ; ', '\n* ');
-    }
-    study.publication = study.publication.split(/\ \;\ /);
+    study.citations = study.citations.split(/\ \;\ /).map(s => s.trim());
+    study.publications = study.publications.split(/\ \;\ /).map(s => s.trim());
     study.thumbnail = study.thumbnail || `thumbnails/${study.slug}.png`;
     study.cellCount = 0;
     study.datasets = datasets.filter((d) => d.study === study.slug);
