@@ -3,7 +3,7 @@ import { readCsvSync } from './csv.js';
 
 export const INPUT_DATA = 'input-data';
 export const CELL_TYPE_COLUMN = 'Level Three Cell Type';
-export const MAX_EDGE_DIST = 1000;
+export const MAX_EDGE_DIST = 200;
 
 export const STUDIES = readCsvSync(join(INPUT_DATA, 'studies.csv')).map((acc, rows) => {
   acc[rows.study] = rows;

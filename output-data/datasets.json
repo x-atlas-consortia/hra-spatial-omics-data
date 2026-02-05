@@ -5,7 +5,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM27_H10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM28_H14 (83,384 cells)",
@@ -13,7 +13,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM28_H14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM31_H32 (41,539 cells)",
@@ -21,7 +21,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM31_H32-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM32_H37 (101,240 cells)",
@@ -29,7 +29,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM32_H37-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM33_H36 (73,395 cells)",
@@ -37,7 +37,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM33_H36-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM34_H38 (69,027 cells)",
@@ -45,7 +45,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM34_H38-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM36_H26 (75,212 cells)",
@@ -53,7 +53,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM36_H26-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM37_H35 (33,497 cells)",
@@ -61,7 +61,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM37_H35-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM38_H33 (21,145 cells)",
@@ -69,7 +69,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM38_H33-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM39_H41 (52,102 cells)",
@@ -77,7 +77,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM39_H41-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM40_H39 (36,809 cells)",
@@ -85,7 +85,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM40_H39-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM41_H27 (65,071 cells)",
@@ -93,7 +93,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM41_H27-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM44_AML2_191 (56,978 cells)",
@@ -101,7 +101,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM44_AML2_191-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM46_AML1_382 (61,506 cells)",
@@ -109,7 +109,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM46_AML1_382-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM47_NSM3_1996 (30,065 cells)",
@@ -117,7 +117,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM47_NSM3_1996-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM48_NSM1_1720 (109,553 cells)",
@@ -125,7 +125,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM48_NSM1_1720-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM49_NSM2_1086 (12,580 cells)",
@@ -133,7 +133,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM49_NSM2_1086-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM51_AML1_183 (8,821 cells)",
@@ -141,7 +141,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM51_AML1_183-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM52_AML3_1329 (32,190 cells)",
@@ -149,7 +149,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM52_AML3_1329-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "bonemarrow-codex-chop / SB67_NBM54_AML3_1443 (15,870 cells)",
@@ -157,7 +157,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM54_AML3_1443-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01002 (483,936 cells)",
@@ -165,7 +165,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01002-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01007 (468,159 cells)",
@@ -173,7 +173,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01007-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01014 (427,104 cells)",
@@ -181,7 +181,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01014-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01020 (407,394 cells)",
@@ -189,7 +189,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01020-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01025 (414,100 cells)",
@@ -197,7 +197,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01025-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01029 (442,126 cells)",
@@ -205,7 +205,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01029-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01034 (553,589 cells)",
@@ -213,7 +213,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01034-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01039 (464,039 cells)",
@@ -221,7 +221,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01039-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01044 (386,081 cells)",
@@ -229,7 +229,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01044-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01049 (529,188 cells)",
@@ -237,7 +237,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01049-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01050 (505,952 cells)",
@@ -245,7 +245,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01050-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01051 (603,497 cells)",
@@ -253,7 +253,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01051-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01052 (564,983 cells)",
@@ -261,7 +261,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01052-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01054 (508,839 cells)",
@@ -269,7 +269,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01054-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01059 (484,964 cells)",
@@ -277,7 +277,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01059-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01064 (582,209 cells)",
@@ -285,7 +285,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01064-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01069 (499,890 cells)",
@@ -293,7 +293,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01069-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01074 (573,396 cells)",
@@ -301,7 +301,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01074-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01078 (552,656 cells)",
@@ -309,7 +309,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01078-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01084 (570,522 cells)",
@@ -317,7 +317,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01084-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01086 (559,297 cells)",
@@ -325,7 +325,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01086-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01091 (511,304 cells)",
@@ -333,7 +333,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01091-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01097 (563,326 cells)",
@@ -341,7 +341,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01097-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01102 (557,363 cells)",
@@ -349,7 +349,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01102-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-cycif-sorgerlab / CRC01106 (544,227 cells)",
@@ -357,7 +357,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-cycif-sorgerlab/CRC01106-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_10 (90,600 cells)",
@@ -365,7 +365,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_11 (91,530 cells)",
@@ -373,7 +373,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_12 (91,819 cells)",
@@ -381,7 +381,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_13 (92,547 cells)",
@@ -389,7 +389,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_14 (92,185 cells)",
@@ -397,7 +397,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_15 (92,230 cells)",
@@ -405,7 +405,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_16 (91,422 cells)",
@@ -413,7 +413,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_16-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_17 (93,543 cells)",
@@ -421,7 +421,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_18 (94,374 cells)",
@@ -429,7 +429,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_19 (95,709 cells)",
@@ -437,7 +437,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_19-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_20 (96,340 cells)",
@@ -445,7 +445,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_20-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_21 (95,411 cells)",
@@ -453,7 +453,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_21-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_22 (95,639 cells)",
@@ -461,7 +461,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_22-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_23 (84,250 cells)",
@@ -469,7 +469,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_23-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_24 (82,404 cells)",
@@ -477,7 +477,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_24-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_25 (83,357 cells)",
@@ -485,7 +485,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_25-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_26 (84,058 cells)",
@@ -493,7 +493,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_26-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_27 (85,100 cells)",
@@ -501,7 +501,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_27-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_28 (86,353 cells)",
@@ -509,7 +509,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_28-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_29 (86,351 cells)",
@@ -517,7 +517,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_29-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_3 (93,982 cells)",
@@ -525,7 +525,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_30 (88,223 cells)",
@@ -533,7 +533,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_30-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_31 (87,295 cells)",
@@ -541,7 +541,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_31-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_4 (94,650 cells)",
@@ -549,7 +549,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_5 (95,402 cells)",
@@ -557,7 +557,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_6 (95,869 cells)",
@@ -565,7 +565,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_7 (94,070 cells)",
@@ -573,7 +573,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_8 (92,446 cells)",
@@ -581,7 +581,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "colon-xenium-stanford / layer_9 (92,056 cells)",
@@ -589,7 +589,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/colon-xenium-stanford/layer_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "esophagus-codex-stanford / esophagus (45,958 cells)",
@@ -597,7 +597,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/esophagus-codex-stanford/esophagus-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Ascending (21,232 cells)",
@@ -605,7 +605,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Ascending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Descending (30,547 cells)",
@@ -613,7 +613,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Descending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Descending_Sigmoid (25,063 cells)",
@@ -621,7 +621,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Descending_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Duodenum (44,170 cells)",
@@ -629,7 +629,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Ileum (26,494 cells)",
@@ -637,7 +637,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Mid_jejunum (36,921 cells)",
@@ -645,7 +645,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Mid_jejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_ProximalJejunum (30,067 cells)",
@@ -653,7 +653,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_ProximalJejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B004_Transverse (33,793 cells)",
@@ -661,7 +661,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B004_Transverse-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Ascending (17,312 cells)",
@@ -669,7 +669,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Ascending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Descending (51,294 cells)",
@@ -677,7 +677,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Descending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Descending_Sigmoid (14,230 cells)",
@@ -685,7 +685,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Descending_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Duodenum (23,558 cells)",
@@ -693,7 +693,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Ileum (17,670 cells)",
@@ -701,7 +701,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Mid_jejunum (86,102 cells)",
@@ -709,7 +709,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Mid_jejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_ProximalJejunum (38,321 cells)",
@@ -717,7 +717,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_ProximalJejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B005_Transverse (33,281 cells)",
@@ -725,7 +725,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B005_Transverse-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Ascending (38,371 cells)",
@@ -733,7 +733,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Ascending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Descending (20,379 cells)",
@@ -741,7 +741,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Descending-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Descending_Sigmoid (24,585 cells)",
@@ -749,7 +749,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Descending_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Duodenum (56,310 cells)",
@@ -757,7 +757,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Ileum (89,907 cells)",
@@ -765,7 +765,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Mid_jejunum (35,371 cells)",
@@ -773,7 +773,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Mid_jejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_ProximalJejunum (41,063 cells)",
@@ -781,7 +781,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_ProximalJejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B006_Transverse (31,283 cells)",
@@ -789,7 +789,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B006_Transverse-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Duodenum (78,213 cells)",
@@ -797,7 +797,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Ileum (37,200 cells)",
@@ -805,7 +805,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Left (37,213 cells)",
@@ -813,7 +813,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Left-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Midjejunum (50,954 cells)",
@@ -821,7 +821,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Midjejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Proximaljejunum (37,304 cells)",
@@ -829,7 +829,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Proximaljejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Right (5,829 cells)",
@@ -837,7 +837,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Right-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Sigmoid (43,783 cells)",
@@ -845,7 +845,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B008_Trans (22,279 cells)",
@@ -853,7 +853,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B008_Trans-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Duodenum (43,092 cells)",
@@ -861,7 +861,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Ileum (88,586 cells)",
@@ -869,7 +869,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Left (77,354 cells)",
@@ -877,7 +877,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Left-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Midjejunum (88,436 cells)",
@@ -885,7 +885,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Midjejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Proximaljejunum (48,517 cells)",
@@ -893,7 +893,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Proximaljejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Right (58,349 cells)",
@@ -901,7 +901,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Right-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Sigmoid (40,551 cells)",
@@ -909,7 +909,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B009_Trans (34,642 cells)",
@@ -917,7 +917,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B009_Trans-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Duodenum (34,133 cells)",
@@ -925,7 +925,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Ileum (39,839 cells)",
@@ -933,7 +933,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Left (19,612 cells)",
@@ -941,7 +941,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Left-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Midjejunum (31,583 cells)",
@@ -949,7 +949,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Midjejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Proximaljejunum (54,111 cells)",
@@ -957,7 +957,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Proximaljejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Right (22,961 cells)",
@@ -965,7 +965,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Right-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Sigmoid (24,158 cells)",
@@ -973,7 +973,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B010_Trans (14,924 cells)",
@@ -981,7 +981,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B010_Trans-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Duodenum (66,845 cells)",
@@ -989,7 +989,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Ileum (32,944 cells)",
@@ -997,7 +997,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Left (20,504 cells)",
@@ -1005,7 +1005,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Left-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Midjejunum (44,026 cells)",
@@ -1013,7 +1013,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Midjejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Proximaljejunum (30,724 cells)",
@@ -1021,7 +1021,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Proximaljejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Right (20,382 cells)",
@@ -1029,7 +1029,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Right-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Sigmoid (21,201 cells)",
@@ -1037,7 +1037,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B011_Trans (31,751 cells)",
@@ -1045,7 +1045,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B011_Trans-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Duodenum (31,219 cells)",
@@ -1053,7 +1053,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Duodenum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Ileum (33,958 cells)",
@@ -1061,7 +1061,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Ileum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Left (72,748 cells)",
@@ -1069,7 +1069,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Left-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Midjejunum (67,636 cells)",
@@ -1077,7 +1077,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Midjejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Proximaljejunum (32,520 cells)",
@@ -1085,7 +1085,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Proximaljejunum-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Right (25,403 cells)",
@@ -1093,7 +1093,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Right-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Sigmoid (51,593 cells)",
@@ -1101,7 +1101,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Sigmoid-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "intestine-codex-stanford / B012_Trans (27,784 cells)",
@@ -1109,7 +1109,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/intestine-codex-stanford/B012_Trans-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lung-codex-urmc / D115-RLL-10A3-40 (614,311 cells)",
@@ -1117,7 +1117,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lung-codex-urmc/D115-RLL-10A3-40-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lung-codex-urmc / D265-LLL-7A7-12 (594,998 cells)",
@@ -1125,7 +1125,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lung-codex-urmc/D265-LLL-7A7-12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lymphnode-codex-yale / LN00560 (1,826,800 cells)",
@@ -1133,7 +1133,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lymphnode-codex-yale/LN00560-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lymphnode-codex-yale / LN00837 (369,642 cells)",
@@ -1141,7 +1141,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lymphnode-codex-yale/LN00837-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lymphnode-codex-yale / LN22921 (3,158,210 cells)",
@@ -1149,7 +1149,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lymphnode-codex-yale/LN22921-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lymphnode-codex-yale / LN24336 (2,548,396 cells)",
@@ -1157,7 +1157,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lymphnode-codex-yale/LN24336-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "lymphnode-codex-yale / LN27766 (1,015,797 cells)",
@@ -1165,7 +1165,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/lymphnode-codex-yale/LN27766-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31739_6_13 (1,929 cells)",
@@ -1173,7 +1173,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31739_6_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31739_6_14 (2,679 cells)",
@@ -1181,7 +1181,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31739_6_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31739_6_15 (1,989 cells)",
@@ -1189,7 +1189,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31739_6_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31740_16_6 (3,512 cells)",
@@ -1197,7 +1197,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31740_16_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31740_6_11 (1,116 cells)",
@@ -1205,7 +1205,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31740_6_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31740_6_12 (2,244 cells)",
@@ -1213,7 +1213,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31740_6_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31741_1_1 (2,493 cells)",
@@ -1221,7 +1221,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31741_1_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31742_1_2 (2,254 cells)",
@@ -1229,7 +1229,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31742_1_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31743_16_7 (2,371 cells)",
@@ -1237,7 +1237,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31743_16_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31743_16_8 (2,245 cells)",
@@ -1245,7 +1245,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31743_16_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31744_1_3 (2,460 cells)",
@@ -1253,7 +1253,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31744_1_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31745_16_10 (3,459 cells)",
@@ -1261,7 +1261,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31745_16_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31745_16_9 (2,462 cells)",
@@ -1269,7 +1269,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31745_16_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31745_1_4 (2,459 cells)",
@@ -1277,7 +1277,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31745_1_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31745_1_5 (3,499 cells)",
@@ -1285,7 +1285,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31745_1_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31745_1_6 (3,164 cells)",
@@ -1293,7 +1293,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31745_1_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 10_31747_1_7 (1,973 cells)",
@@ -1301,7 +1301,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/10_31747_1_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31748_1_8 (3,044 cells)",
@@ -1309,7 +1309,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31748_1_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31749_16_11 (2,850 cells)",
@@ -1317,7 +1317,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31749_16_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31749_1_9 (3,049 cells)",
@@ -1325,7 +1325,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31749_1_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31750_16_12 (2,537 cells)",
@@ -1333,7 +1333,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31750_16_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31750_1_10 (2,017 cells)",
@@ -1341,7 +1341,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31750_1_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31750_1_11 (1,926 cells)",
@@ -1349,7 +1349,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31750_1_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31751_1_12 (1,685 cells)",
@@ -1357,7 +1357,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31751_1_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31754_16_13 (1,194 cells)",
@@ -1365,7 +1365,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31754_16_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31754_16_14 (2,584 cells)",
@@ -1373,7 +1373,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31754_16_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31754_16_15 (1,400 cells)",
@@ -1381,7 +1381,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31754_16_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31754_18_2 (2,233 cells)",
@@ -1389,7 +1389,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31754_18_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 12_31754_1_14 (2,070 cells)",
@@ -1397,7 +1397,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/12_31754_1_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31755_18_1 (2,501 cells)",
@@ -1405,7 +1405,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31755_18_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31756_20_2 (3,215 cells)",
@@ -1413,7 +1413,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31756_20_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31757_20_3 (2,437 cells)",
@@ -1421,7 +1421,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31757_20_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31758_16_17 (1,977 cells)",
@@ -1429,7 +1429,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31758_16_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31758_20_4 (2,378 cells)",
@@ -1437,7 +1437,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31758_20_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31758_20_5 (1,462 cells)",
@@ -1445,7 +1445,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31758_20_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31759_16_18 (2,075 cells)",
@@ -1453,7 +1453,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31759_16_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31759_20_6 (2,651 cells)",
@@ -1461,7 +1461,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31759_20_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31760_16_19 (2,478 cells)",
@@ -1469,7 +1469,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31760_16_19-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31761_16_20 (2,880 cells)",
@@ -1477,7 +1477,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31761_16_20-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 14_31761_20_7 (2,741 cells)",
@@ -1485,7 +1485,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/14_31761_20_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31762_16_21 (1,669 cells)",
@@ -1493,7 +1493,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31762_16_21-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31762_20_8 (1,108 cells)",
@@ -1501,7 +1501,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31762_20_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31762_20_9 (2,803 cells)",
@@ -1509,7 +1509,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31762_20_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31763_20_10 (183 cells)",
@@ -1517,7 +1517,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31763_20_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31765_19_1 (1,798 cells)",
@@ -1525,7 +1525,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31765_19_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31765_20_11 (1,037 cells)",
@@ -1533,7 +1533,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31765_20_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31765_3_1 (2,310 cells)",
@@ -1541,7 +1541,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31765_3_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31766_3_2 (2,327 cells)",
@@ -1549,7 +1549,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31766_3_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31767_17_1 (3,024 cells)",
@@ -1557,7 +1557,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31767_17_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31767_3_3 (1,906 cells)",
@@ -1565,7 +1565,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31767_3_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31767_3_4 (1,087 cells)",
@@ -1573,7 +1573,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31767_3_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31768_17_2 (2,315 cells)",
@@ -1581,7 +1581,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31768_17_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31768_3_5 (2,395 cells)",
@@ -1589,7 +1589,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31768_3_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31768_3_6 (438 cells)",
@@ -1597,7 +1597,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31768_3_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31769_18_11 (2,632 cells)",
@@ -1605,7 +1605,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31769_18_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31769_3_7 (2,662 cells)",
@@ -1613,7 +1613,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31769_3_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31770_14_15 (2,446 cells)",
@@ -1621,7 +1621,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31770_14_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31770_14_16 (2,856 cells)",
@@ -1629,7 +1629,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31770_14_16-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31770_4_1 (158 cells)",
@@ -1637,7 +1637,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31770_4_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31770_4_2 (1,600 cells)",
@@ -1645,7 +1645,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31770_4_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31771_14_14 (2,119 cells)",
@@ -1653,7 +1653,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31771_14_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31771_4_3 (1,447 cells)",
@@ -1661,7 +1661,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31771_4_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31772_4_4 (3,813 cells)",
@@ -1669,7 +1669,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31772_4_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31772_4_5 (3,332 cells)",
@@ -1677,7 +1677,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31772_4_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31772_4_6 (2,753 cells)",
@@ -1685,7 +1685,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31772_4_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31772_4_7 (2,124 cells)",
@@ -1693,7 +1693,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31772_4_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31773_4_10 (864 cells)",
@@ -1701,7 +1701,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31773_4_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31773_4_8 (2,572 cells)",
@@ -1709,7 +1709,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31773_4_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31773_4_9 (2,924 cells)",
@@ -1717,7 +1717,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31773_4_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31774_14_13 (2,501 cells)",
@@ -1725,7 +1725,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31774_14_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31774_4_11 (2,299 cells)",
@@ -1733,7 +1733,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31774_4_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31774_4_12 (2,869 cells)",
@@ -1741,7 +1741,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31774_4_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 16_31775_5_1 (3,057 cells)",
@@ -1749,7 +1749,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/16_31775_5_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31776_14_12 (455 cells)",
@@ -1757,7 +1757,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31776_14_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31776_5_2 (2,671 cells)",
@@ -1765,7 +1765,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31776_5_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31779_5_4 (2,631 cells)",
@@ -1773,7 +1773,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31779_5_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31780_5_5 (2,097 cells)",
@@ -1781,7 +1781,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31780_5_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31782_5_6 (234 cells)",
@@ -1789,7 +1789,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31782_5_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31782_5_7 (2,212 cells)",
@@ -1797,7 +1797,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31782_5_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_14_10 (2,157 cells)",
@@ -1805,7 +1805,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_14_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_14_11 (1,902 cells)",
@@ -1813,7 +1813,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_14_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_14_7 (1,968 cells)",
@@ -1821,7 +1821,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_14_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_14_8 (2,061 cells)",
@@ -1829,7 +1829,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_14_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_14_9 (2,124 cells)",
@@ -1837,7 +1837,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_14_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_5_10 (1,786 cells)",
@@ -1845,7 +1845,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_5_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_5_11 (1,829 cells)",
@@ -1853,7 +1853,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_5_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_5_8 (3,159 cells)",
@@ -1861,7 +1861,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_5_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31783_5_9 (1,992 cells)",
@@ -1869,7 +1869,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31783_5_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31784_14_6 (1,320 cells)",
@@ -1877,7 +1877,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31784_14_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31785_5_13 (2,633 cells)",
@@ -1885,7 +1885,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31785_5_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31785_5_14 (868 cells)",
@@ -1893,7 +1893,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31785_5_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 18_31785_5_15 (2,890 cells)",
@@ -1901,7 +1901,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/18_31785_5_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31786_14_5 (988 cells)",
@@ -1909,7 +1909,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31786_14_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31787_14_3 (10 cells)",
@@ -1917,7 +1917,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31787_14_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31787_14_4 (1,249 cells)",
@@ -1925,7 +1925,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31787_14_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31787_5_16 (1,377 cells)",
@@ -1933,7 +1933,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31787_5_16-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31788_5_17 (1,601 cells)",
@@ -1941,7 +1941,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31788_5_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31788_5_18 (603 cells)",
@@ -1949,7 +1949,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31788_5_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31789_14_1 (1,143 cells)",
@@ -1957,7 +1957,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31789_14_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31789_14_2 (1,403 cells)",
@@ -1965,7 +1965,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31789_14_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31789_5_19 (2,387 cells)",
@@ -1973,7 +1973,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31789_5_19-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31789_5_20 (1,942 cells)",
@@ -1981,7 +1981,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31789_5_20-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31790_13_14 (213 cells)",
@@ -1989,7 +1989,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31790_13_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31790_18_12 (533 cells)",
@@ -1997,7 +1997,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31790_18_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31791_13_11 (1,036 cells)",
@@ -2005,7 +2005,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31791_13_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31791_13_12 (545 cells)",
@@ -2013,7 +2013,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31791_13_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31791_13_13 (2,015 cells)",
@@ -2021,7 +2021,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31791_13_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31791_18_13 (525 cells)",
@@ -2029,7 +2029,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31791_18_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31792_18_14 (2,179 cells)",
@@ -2037,7 +2037,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31792_18_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_13_10 (1,861 cells)",
@@ -2045,7 +2045,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_13_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_13_8 (2,947 cells)",
@@ -2053,7 +2053,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_13_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_13_9 (1,481 cells)",
@@ -2061,7 +2061,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_13_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_6_1 (308 cells)",
@@ -2069,7 +2069,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_6_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_6_2 (1,280 cells)",
@@ -2077,7 +2077,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_6_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31793_6_3 (1,729 cells)",
@@ -2085,7 +2085,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31793_6_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31794_13_6 (2,149 cells)",
@@ -2093,7 +2093,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31794_13_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31794_13_7 (1,805 cells)",
@@ -2101,7 +2101,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31794_13_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31794_6_4 (1,132 cells)",
@@ -2109,7 +2109,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31794_6_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31794_6_6 (2,972 cells)",
@@ -2117,7 +2117,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31794_6_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31795_13_4 (1,520 cells)",
@@ -2125,7 +2125,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31795_13_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31795_6_7 (66 cells)",
@@ -2133,7 +2133,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31795_6_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31797_13_3 (1,566 cells)",
@@ -2141,7 +2141,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31797_13_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31797_6_9 (806 cells)",
@@ -2149,7 +2149,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31797_6_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 20_31798_13_1 (129 cells)",
@@ -2157,7 +2157,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/20_31798_13_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31725_15_1 (3,111 cells)",
@@ -2165,7 +2165,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31725_15_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31725_15_2 (1,849 cells)",
@@ -2173,7 +2173,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31725_15_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31725_8_2 (3,574 cells)",
@@ -2181,7 +2181,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31725_8_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31725_8_3 (3,525 cells)",
@@ -2189,7 +2189,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31725_8_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31726_8_4 (3,488 cells)",
@@ -2197,7 +2197,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31726_8_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31726_8_5 (1,631 cells)",
@@ -2205,7 +2205,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31726_8_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31726_8_6 (2,890 cells)",
@@ -2213,7 +2213,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31726_8_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31726_8_7 (3,500 cells)",
@@ -2221,7 +2221,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31726_8_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31726_8_8 (3,123 cells)",
@@ -2229,7 +2229,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31726_8_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31727_15_3 (2,375 cells)",
@@ -2237,7 +2237,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31727_15_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31727_8_10 (2,819 cells)",
@@ -2245,7 +2245,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31727_8_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31727_8_11 (2,263 cells)",
@@ -2253,7 +2253,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31727_8_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31727_8_12 (2,435 cells)",
@@ -2261,7 +2261,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31727_8_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31727_8_9 (2,350 cells)",
@@ -2269,7 +2269,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31727_8_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31728_15_4 (1,831 cells)",
@@ -2277,7 +2277,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31728_15_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31728_15_5 (2,044 cells)",
@@ -2285,7 +2285,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31728_15_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31728_15_6 (2,213 cells)",
@@ -2293,7 +2293,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31728_15_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31728_9_2 (2,759 cells)",
@@ -2301,7 +2301,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31728_9_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31728_9_3 (2,334 cells)",
@@ -2309,7 +2309,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31728_9_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_10_1 (2,195 cells)",
@@ -2317,7 +2317,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_10_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_10_2 (2,796 cells)",
@@ -2325,7 +2325,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_10_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_10_3 (1,934 cells)",
@@ -2333,7 +2333,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_10_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_10_4 (3,081 cells)",
@@ -2341,7 +2341,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_10_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_10_5 (1,893 cells)",
@@ -2349,7 +2349,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_10_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31729_9_4 (2,761 cells)",
@@ -2357,7 +2357,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31729_9_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_10 (2,062 cells)",
@@ -2365,7 +2365,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_11 (3,688 cells)",
@@ -2373,7 +2373,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_12 (3,366 cells)",
@@ -2381,7 +2381,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_6 (3,867 cells)",
@@ -2389,7 +2389,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_7 (3,634 cells)",
@@ -2397,7 +2397,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_8 (3,943 cells)",
@@ -2405,7 +2405,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_10_9 (3,290 cells)",
@@ -2413,7 +2413,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_10_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_11_1 (1,762 cells)",
@@ -2421,7 +2421,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_11_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31730_18_15 (3,181 cells)",
@@ -2429,7 +2429,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31730_18_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_2 (2,696 cells)",
@@ -2437,7 +2437,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_4 (1,506 cells)",
@@ -2445,7 +2445,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_5 (2,863 cells)",
@@ -2453,7 +2453,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_6 (2,377 cells)",
@@ -2461,7 +2461,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_7 (2,415 cells)",
@@ -2469,7 +2469,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_11_8 (2,150 cells)",
@@ -2477,7 +2477,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_11_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_15_7 (2,317 cells)",
@@ -2485,7 +2485,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_15_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31731_15_8 (2,151 cells)",
@@ -2493,7 +2493,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31731_15_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31732_11_10 (3,128 cells)",
@@ -2501,7 +2501,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31732_11_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31732_11_11 (2,688 cells)",
@@ -2509,7 +2509,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31732_11_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31732_11_12 (2,752 cells)",
@@ -2517,7 +2517,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31732_11_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31732_11_9 (3,363 cells)",
@@ -2525,7 +2525,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31732_11_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31732_15_9 (2,612 cells)",
@@ -2533,7 +2533,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31732_15_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_11_13 (2,377 cells)",
@@ -2541,7 +2541,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_11_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_11_14 (3,196 cells)",
@@ -2549,7 +2549,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_11_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_11_15 (1,363 cells)",
@@ -2557,7 +2557,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_11_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_11_16 (2,818 cells)",
@@ -2565,7 +2565,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_11_16-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_11_17 (2,767 cells)",
@@ -2573,7 +2573,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_11_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_15_10 (2,019 cells)",
@@ -2581,7 +2581,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_15_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_15_11 (3,081 cells)",
@@ -2589,7 +2589,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_15_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 6_31733_15_12 (3,411 cells)",
@@ -2597,7 +2597,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/6_31733_15_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_11_18 (3,251 cells)",
@@ -2605,7 +2605,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_11_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_12_1 (2,898 cells)",
@@ -2613,7 +2613,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_12_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_12_2 (3,492 cells)",
@@ -2621,7 +2621,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_12_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_12_3 (2,699 cells)",
@@ -2629,7 +2629,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_12_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_12_4 (913 cells)",
@@ -2637,7 +2637,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_12_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_12_5 (3,419 cells)",
@@ -2645,7 +2645,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_12_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_16_1 (2,970 cells)",
@@ -2653,7 +2653,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_16_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31734_16_2 (2,469 cells)",
@@ -2661,7 +2661,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31734_16_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_10 (2,647 cells)",
@@ -2669,7 +2669,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_11 (2,627 cells)",
@@ -2677,7 +2677,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_12 (2,688 cells)",
@@ -2685,7 +2685,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_12-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_13 (2,709 cells)",
@@ -2693,7 +2693,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_14 (2,271 cells)",
@@ -2701,7 +2701,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_14-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_6 (2,928 cells)",
@@ -2709,7 +2709,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_7 (3,753 cells)",
@@ -2717,7 +2717,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_8 (2,995 cells)",
@@ -2725,7 +2725,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31735_12_9 (2,708 cells)",
@@ -2733,7 +2733,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31735_12_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_12_15 (3,002 cells)",
@@ -2741,7 +2741,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_12_15-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_12_16 (2,076 cells)",
@@ -2749,7 +2749,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_12_16-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_12_17 (2,775 cells)",
@@ -2757,7 +2757,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_12_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_12_18 (2,138 cells)",
@@ -2765,7 +2765,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_12_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_12_19 (2,897 cells)",
@@ -2773,7 +2773,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_12_19-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_16_3 (1,718 cells)",
@@ -2781,7 +2781,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_16_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_16_4 (3,484 cells)",
@@ -2789,7 +2789,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_16_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31736_16_5 (2,647 cells)",
@@ -2797,7 +2797,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31736_16_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31737_12_20 (3,175 cells)",
@@ -2805,7 +2805,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31737_12_20-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31737_12_22 (4,333 cells)",
@@ -2813,7 +2813,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31737_12_22-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31737_12_23 (3,941 cells)",
@@ -2821,7 +2821,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31737_12_23-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31737_6_18 (4,243 cells)",
@@ -2829,7 +2829,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31737_6_18-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "maternalfetalinterface-mibitof-stanford / 8_31738_6_17 (2,655 cells)",
@@ -2837,7 +2837,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/maternalfetalinterface-mibitof-stanford/8_31738_6_17-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Buccal_Mucosa_And_Minor_Salivary_Glands_1 (43,760 cells)",
@@ -2845,7 +2845,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Buccal_Mucosa_And_Minor_Salivary_Glands_2 (58,741 cells)",
@@ -2853,7 +2853,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Gingiva_ID1_shiny (65,208 cells)",
@@ -2861,7 +2861,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID1_shiny-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Gingiva_ID5_shiny (46,585 cells)",
@@ -2869,7 +2869,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID5_shiny-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Parotid_1 (128,041 cells)",
@@ -2877,7 +2877,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Parotid_2 (154,003 cells)",
@@ -2885,7 +2885,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Parotid_3 (112,086 cells)",
@@ -2893,7 +2893,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Parotid_4 (111,565 cells)",
@@ -2901,7 +2901,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Submandibular_1 (144,146 cells)",
@@ -2909,7 +2909,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Submandibular_2 (159,147 cells)",
@@ -2917,7 +2917,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Tongue_3 (208,730 cells)",
@@ -2925,7 +2925,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Tongue__1 (55,221 cells)",
@@ -2933,7 +2933,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "oralcavity-codex-czi / Tongue__2 (124,956 cells)",
@@ -2941,7 +2941,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P2-13 (1,198,981 cells)",
@@ -2949,7 +2949,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P2-13-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P2-19 (1,150,539 cells)",
@@ -2957,7 +2957,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P2-19-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P2-4AD (1,285,551 cells)",
@@ -2965,7 +2965,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P2-4AD-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P2-7A (1,430,467 cells)",
@@ -2973,7 +2973,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P2-7A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P3-13A (1,381,967 cells)",
@@ -2981,7 +2981,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P3-13A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P3-3A (893,141 cells)",
@@ -2989,7 +2989,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P3-3A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P3-7A (939,724 cells)",
@@ -2997,7 +2997,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P3-7A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P3-9A (1,360,312 cells)",
@@ -3005,7 +3005,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P3-9A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P4-12A (935,959 cells)",
@@ -3013,7 +3013,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P4-12A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P4-22 (1,742,858 cells)",
@@ -3021,7 +3021,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P4-22-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P4-3A (1,378,315 cells)",
@@ -3029,7 +3029,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P4-3A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "pancreas-geomx-ufl / P4-6A (1,194,061 cells)",
@@ -3037,7 +3037,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/pancreas-geomx-ufl/P4-6A-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_1 (2,868 cells)",
@@ -3045,7 +3045,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_10 (2,487 cells)",
@@ -3053,7 +3053,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_10-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_11 (4,846 cells)",
@@ -3061,7 +3061,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_11-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_2 (6,070 cells)",
@@ -3069,7 +3069,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_3 (3,238 cells)",
@@ -3077,7 +3077,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_4 (7,018 cells)",
@@ -3085,7 +3085,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_5 (6,326 cells)",
@@ -3093,7 +3093,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_5-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_6 (46,268 cells)",
@@ -3101,7 +3101,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_6-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_7 (4,444 cells)",
@@ -3109,7 +3109,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_7-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_8 (3,381 cells)",
@@ -3117,7 +3117,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_8-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-celldive-ge / region_9 (7,645 cells)",
@@ -3125,7 +3125,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-celldive-ge/region_9-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-confocal-sorgerlab / phenotypes_invasive_margin (43,966 cells)",
@@ -3133,7 +3133,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-confocal-sorgerlab/phenotypes_invasive_margin-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "skin-confocal-sorgerlab / phenotypes_melanoma_in_situ (11,289 cells)",
@@ -3141,7 +3141,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/skin-confocal-sorgerlab/phenotypes_melanoma_in_situ-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / FSLD (226,384 cells)",
@@ -3149,7 +3149,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/FSLD-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / KSFB (152,896 cells)",
@@ -3157,7 +3157,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/KSFB-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / NGPL (177,777 cells)",
@@ -3165,7 +3165,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/NGPL-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / PBVN (130,584 cells)",
@@ -3173,7 +3173,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PBVN-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / PKHL (154,446 cells)",
@@ -3181,7 +3181,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PKHL-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "spleen-codex-ufl / XXCD (150,311 cells)",
@@ -3189,7 +3189,7 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/XXCD-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   },
   {
     "label": "tonsil-codex-stanford / tonsil (173,968 cells)",
@@ -3197,6 +3197,6 @@
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/tonsil-codex-stanford/tonsil-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
-    "max-edge-distance": "1000"
+    "max-edge-distance": 200
   }
 ]

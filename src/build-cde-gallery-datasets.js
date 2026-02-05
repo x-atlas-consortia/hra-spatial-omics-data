@@ -1,8 +1,8 @@
 import { writeFileSync } from 'fs';
 import { globSync } from 'glob';
 import { basename, dirname, join } from 'path';
-import { readCsv } from './utils/csv.js';
 import { CELL_TYPE_COLUMN, getCellTypeKey, MAX_EDGE_DIST } from './utils/cde-config.js';
+import { readCsv } from './utils/csv.js';
 
 const BASE_URL = 'https://cdn.humanatlas.io';
 // const BASE_URL = 'http://localhost:5500';
@@ -38,9 +38,12 @@ const datasets = [];
 for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
   const edgesFile = nodesFile.replace('-nodes.csv', '-edges.csv');
   const stats = await getSummary(nodesFile);
+  const study = basename(dirname(nodesFile));
+  const slug = basename(nodesFile, '-nodes.csv');
+
   datasets.push({
-    study: basename(dirname(nodesFile)),
-    slug: basename(nodesFile, '-nodes.csv'),
+    study,
+    slug,
     nodes: nodesFile.replace(INPUT_DATA, BASE_URL),
     edges: edgesFile.replace(INPUT_DATA, BASE_URL),
     'node-target-key': CELL_TYPE_COLUMN,
@@ -50,9 +53,8 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
     ...stats,
   });
 
-  const htmlFile = nodesFile.replace('-nodes.csv', '-vis.html');
-
-  const html = `<!doctype html>
+  const visHtmlFile = nodesFile.replace('-nodes.csv', '-vis.html');
+  const visHtml = `<!doctype html>
 <html lang="en">
   <body style="height: 100vh; background-color: black;">
     <hra-node-dist-vis
@@ -66,7 +68,32 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
   </body>
 </html>
 `;
-  writeFileSync(htmlFile, html);
+  writeFileSync(visHtmlFile, visHtml);
+
+  const cdeHtmlFile = nodesFile.replace('-nodes.csv', '-cde.html');
+  const cdeHtml = `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CDE Visualization - ${study} / ${slug}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" href="https://cdn.humanatlas.io/ui--staging/cde-visualization-wc/favicon.png" />
+
+    <link href="https://cdn.humanatlas.io/ui--staging/cde-visualization-wc/styles.css" rel="stylesheet" />
+    <script src="https://cdn.humanatlas.io/ui--staging/cde-visualization-wc/wc.js" type="module"></script>
+  </head>
+  <body style="height: 100vh">
+    <cde-visualization
+      nodes="${nodesFile.replace(INPUT_DATA, BASE_URL)}"
+      edges="${edgesFile.replace(INPUT_DATA, BASE_URL)}"
+      node-target-key="${CELL_TYPE_COLUMN}"
+      node-target-value="${getCellTypeKey(nodesFile)}"
+      max-edge-distance="${MAX_EDGE_DIST}"
+    ></cde-visualization>
+  </body>
+</html>
+`;
+  writeFileSync(cdeHtmlFile, cdeHtml);
 }
 
 writeFileSync(DATASETS_JSON, JSON.stringify(datasets, null, 2));
