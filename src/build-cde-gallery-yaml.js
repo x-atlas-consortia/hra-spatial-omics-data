@@ -17,6 +17,7 @@ const data = {
     study.cellCount = 0;
     study.datasets = datasets.filter((d) => d.study === study.slug);
     study.cellCount = study.datasets.map((d) => d.cellCount).reduce((acc, count) => count + acc, 0);
+    delete study.anchorCellTypeL3;
     return study;
   }),
 };
