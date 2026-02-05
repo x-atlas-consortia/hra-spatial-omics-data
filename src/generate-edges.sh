@@ -10,4 +10,5 @@ TARGET_LABEL=`csvgrep -c slug -m $STUDY input-data/studies.csv | csvcut -c ancho
 CELL_TYPE_COLUMN='Level Three Cell Type';
 NODE_OPTIONS='--max-old-space-size=64000';
 
+echo "Generating edges for $NODES"
 node ${NODE_OPTIONS} ./src/node-dist-vis-cli.cjs generate-edges ${NODES} -t "${TARGET_LABEL}" -k "Cell Type:${CELL_TYPE_COLUMN}" -o ${EDGES}

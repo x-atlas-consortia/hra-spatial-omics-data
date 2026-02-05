@@ -12,6 +12,7 @@ for NODES in `find $INPUT_DIR/image-store/vccf-data-cell-nodes/published/ -name 
     echo "./src/generate-edges.sh $NODES" >> jobs.txt
   else
     EDGES="${NODES%-nodes.csv}-edges.csv"
+    touch $EDGES
     count=`wc -l $EDGES | cut -d ' ' -f 1`
     if [[ $count < 10 ]]; then
       echo "./src/generate-edges.sh $NODES" >> jobs.txt
@@ -26,6 +27,7 @@ touch jobs.txt
 
 for NODES in `find $INPUT_DIR/image-store/vccf-data-cell-nodes/published/ -name "*-nodes.csv"`; do
   EDGES="${NODES%-nodes.csv}-edges.csv"
+  touch $EDGES
   count=`wc -l $EDGES | cut -d ' ' -f 1`
   if [[ $count < 10 ]]; then
     echo "./src/generate-edges.sh $NODES" >> jobs.txt
