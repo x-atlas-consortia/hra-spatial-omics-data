@@ -6,8 +6,8 @@ export const CELL_TYPE_COLUMN = 'Level Three Cell Type';
 export const CL_ID_TYPE_COLUMN = 'Level Three CL ID';
 export const MAX_EDGE_DIST = 200;
 
-export const STUDIES = readCsvSync(join(INPUT_DATA, 'studies.csv')).map((acc, rows) => {
-  acc[rows.study] = rows;
+export const STUDIES = readCsvSync(join(INPUT_DATA, 'studies.csv')).reduce((acc, rows) => {
+  acc[rows.slug] = rows;
   return acc;
 }, {});
 
