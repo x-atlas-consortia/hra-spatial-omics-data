@@ -1,7 +1,7 @@
 import { writeFileSync } from 'fs';
 import { globSync } from 'glob';
 import { basename, dirname, join } from 'path';
-import { CELL_TYPE_COLUMN, getCellTypeKey, MAX_EDGE_DIST } from './utils/cde-config.js';
+import { CELL_TYPE_COLUMN, CL_ID_TYPE_COLUMN, getCellTypeKey, MAX_EDGE_DIST } from './utils/cde-config.js';
 import { readCsv } from './utils/csv.js';
 
 const BASE_URL = 'https://cdn.humanatlas.io';
@@ -48,6 +48,7 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
     edges: edgesFile.replace(INPUT_DATA, BASE_URL),
     'node-target-key': CELL_TYPE_COLUMN,
     'node-target-value': getCellTypeKey(nodesFile),
+    'node-cl-id-key': CL_ID_TYPE_COLUMN,
     'max-edge-distance': MAX_EDGE_DIST,
     thumbnail: nodesFile.replace(INPUT_DATA, BASE_URL).replace('-nodes.csv', '-vis.png'),
     ...stats,
@@ -62,6 +63,7 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
       edges="${edgesFile.replace(INPUT_DATA, BASE_URL)}"
       node-target-key="${CELL_TYPE_COLUMN}"
       node-target-value="${getCellTypeKey(nodesFile)}"
+      node-cl-id-key="${CL_ID_TYPE_COLUMN}"
       max-edge-distance="${MAX_EDGE_DIST}"
     ></hra-node-dist-vis>
     <script src="https://cdn.humanatlas.io/ui--staging/node-dist-vis-wc/wc.js" type="module"></script>
@@ -88,6 +90,7 @@ for (const nodesFile of globSync(join(INPUT_DATA, CSV_FILES)).sort()) {
       edges="${edgesFile.replace(INPUT_DATA, BASE_URL)}"
       node-target-key="${CELL_TYPE_COLUMN}"
       node-target-value="${getCellTypeKey(nodesFile)}"
+      node-cl-id-key="${CL_ID_TYPE_COLUMN}"
       max-edge-distance="${MAX_EDGE_DIST}"
     ></cde-visualization>
   </body>
