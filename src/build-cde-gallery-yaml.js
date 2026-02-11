@@ -13,11 +13,11 @@ const data = {
   studies: studies.map((study) => {
     study.citations = study.citations.split(/\ \;\ /).map(s => s.trim());
     study.publications = study.publications.split(/\ \;\ /).map(s => s.trim());
-    study.thumbnail = study.thumbnail || `thumbnails/${study.slug}.png`;
     study.cellCount = 0;
     study.datasets = datasets.filter((d) => d.study === study.slug);
     study.cellCount = study.datasets.map((d) => d.cellCount).reduce((acc, count) => count + acc, 0);
     delete study.anchorCellTypeL3;
+    delete study.thumbnail;
     return study;
   }),
 };
