@@ -4,7 +4,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM27_H10-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM27_H10-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -12,7 +12,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM28_H14-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM28_H14-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -20,7 +20,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM31_H32-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM31_H32-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -28,7 +28,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM32_H37-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM32_H37-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -36,7 +36,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM33_H36-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM33_H36-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -44,7 +44,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM34_H38-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM34_H38-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -52,7 +52,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM36_H26-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM36_H26-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -60,7 +60,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM37_H35-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM37_H35-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -68,7 +68,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM38_H33-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM38_H33-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -76,7 +76,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM39_H41-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM39_H41-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -84,7 +84,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM40_H39-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM40_H39-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -92,7 +92,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM41_H27-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM41_H27-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -100,7 +100,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM44_AML2_191-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM44_AML2_191-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -108,7 +108,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM46_AML1_382-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM46_AML1_382-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -116,7 +116,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM47_NSM3_1996-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM47_NSM3_1996-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -124,7 +124,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM48_NSM1_1720-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM48_NSM1_1720-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -132,7 +132,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM49_NSM2_1086-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM49_NSM2_1086-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -140,7 +140,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM51_AML1_183-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM51_AML1_183-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -148,7 +148,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM52_AML3_1329-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM52_AML3_1329-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -156,7 +156,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM54_AML3_1443-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/bonemarrow-codex-chop/SB67_NBM54_AML3_1443-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -595,6 +595,2718 @@
     "label": "esophagus-codex-stanford / esophagus (45,958 cells)",
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/esophagus-codex-stanford/esophagus-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/esophagus-codex-stanford/esophagus-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM222_WQKC_382_uterus_mibi (4,297 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM222_WQKC_382_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM222_WQKC_382_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM224_DTZL_954_uterus_mibi (2,161 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_DTZL_954_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_DTZL_954_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM224_KGNF_646_uterus_mibi (2,401 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_KGNF_646_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_KGNF_646_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM224_RCHM_744_uterus_mibi (2,462 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_RCHM_744_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM224_RCHM_744_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM225_PQGQ_852_uterus_mibi (2,641 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM225_PQGQ_852_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM225_PQGQ_852_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM226_SDCN_999_uterus_mibi (2,526 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM226_SDCN_999_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM226_SDCN_999_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM228_MLPT_762_uterus_mibi (2,647 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM228_MLPT_762_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM228_MLPT_762_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM228_NLNS_669_uterus_mibi (1,452 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM228_NLNS_669_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM228_NLNS_669_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM233_GTZN_466_intestine_codex (35,084 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM233_GTZN_466_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM233_GTZN_466_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM236_WBFT_443_intestine_codex (36,658 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM236_WBFT_443_reg002_intestine_codex (42,418 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg002_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg002_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM236_WBFT_443_reg003_intestine_codex (53,623 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg003_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg003_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM236_WBFT_443_reg004_intestine_codex (50,924 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg004_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM236_WBFT_443_reg004_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM237_DLKC_855_uterus_mibi (1,677 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM237_DLKC_855_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM237_DLKC_855_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM243_BKXT_647_uterus_mibi (2,218 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM243_BKXT_647_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM243_BKXT_647_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM244_TJLK_223_spleen_codex (260,059 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM244_TJLK_223_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM244_TJLK_223_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM244_TVNH_734_intestine_codex (80,832 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM244_TVNH_734_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM244_TVNH_734_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM245_NHMB_685_intestine_codex (18,104 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM245_NHMB_685_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM245_NHMB_685_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM246_VPVL_879_thymus_codex (248,218 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM246_VPVL_879_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM246_VPVL_879_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM248_CCGT_382_uterus_mibi (2,709 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM248_CCGT_382_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM248_CCGT_382_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM252_GGCL_762_uterus_mibi (2,151 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM252_GGCL_762_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM252_GGCL_762_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM253_MXKW_373_intestine_codex (42,500 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM253_MXKW_373_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM253_MXKW_373_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM253_PQVP_942_uterus_mibi (2,053 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM253_PQVP_942_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM253_PQVP_942_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM255_FCJD_432_uterus_mibi (2,262 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM255_FCJD_432_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM255_FCJD_432_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM257_TFFM_796_uterus_mibi (1,206 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM257_TFFM_796_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM257_TFFM_796_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM258_SWDZ_622_uterus_mibi (3,147 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM258_SWDZ_622_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM258_SWDZ_622_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM258_WPBZ_892_uterus_mibi (3,523 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM258_WPBZ_892_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM258_WPBZ_892_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM259_FWHD_689_uterus_mibi (2,099 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM259_FWHD_689_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM259_FWHD_689_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM264_HHBZ_855_uterus_mibi (1,648 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM264_HHBZ_855_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM264_HHBZ_855_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM267_BZKT_867_spleen_codex (129,457 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM267_BZKT_867_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM267_BZKT_867_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM268_ZZGQ_759_uterus_mibi (1,502 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM268_ZZGQ_759_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM268_ZZGQ_759_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM273_ZHHG_846_uterus_mibi (1,155 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM273_ZHHG_846_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM273_ZHHG_846_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM275_HPVH_884_uterus_mibi (1,930 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM275_HPVH_884_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM275_HPVH_884_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM276_ZMLR_392_uterus_mibi (1,277 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM276_ZMLR_392_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM276_ZMLR_392_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM277_GJFC_833_thymus_codex (361,562 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM277_GJFC_833_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM277_GJFC_833_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM277_NSQL_526_uterus_mibi (1,344 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM277_NSQL_526_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM277_NSQL_526_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM278_GHLH_482_uterus_mibi (1,866 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM278_GHLH_482_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM278_GHLH_482_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM278_JPVF_359_uterus_mibi (2,050 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM278_JPVF_359_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM278_JPVF_359_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM279_TQRS_775_lymphnode_codex (109,874 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM279_TQRS_775_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM279_TQRS_775_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM283_CPXW_835_uterus_mibi (3,097 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_CPXW_835_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_CPXW_835_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM283_GNGR_785_lymphnode_codex (210,864 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_GNGR_785_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_GNGR_785_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM283_ZHQS_286_uterus_mibi (2,042 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_ZHQS_286_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM283_ZHQS_286_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM285_RQPT_487_uterus_mibi (3,331 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM285_RQPT_487_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM285_RQPT_487_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM286_PPPQ_526_uterus_mibi (5,429 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM286_PPPQ_526_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM286_PPPQ_526_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM288_XSQZ_633_thymus_codex (182,422 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM288_XSQZ_633_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM288_XSQZ_633_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM292_FCMS_497_intestine_codex (20,662 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM292_FCMS_497_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM292_FCMS_497_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM293_JJRG_875_uterus_mibi (1,656 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_JJRG_875_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_JJRG_875_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM293_LGZW_236_intestine_codex (26,627 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_LGZW_236_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_LGZW_236_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM293_PLZJ_793_uterus_mibi (2,615 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_PLZJ_793_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM293_PLZJ_793_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM294_RHDS_354_uterus_mibi (2,934 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM294_RHDS_354_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM294_RHDS_354_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM296_NRCF_473_uterus_mibi (2,466 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM296_NRCF_473_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM296_NRCF_473_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM297_DGPL_989_uterus_mibi (2,349 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM297_DGPL_989_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM297_DGPL_989_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM299_PBZF_474_uterus_mibi (2,095 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM299_PBZF_474_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM299_PBZF_474_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM327_VGQK_363_uterus_mibi (2,865 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM327_VGQK_363_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM327_VGQK_363_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM327_VPMV_784_uterus_mibi (2,490 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM327_VPMV_784_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM327_VPMV_784_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM334_RPTP_997_intestine_codex (42,061 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM334_RPTP_997_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM334_RPTP_997_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM337_FSXL_564_spleen_codex (150,508 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM337_FSXL_564_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM337_FSXL_564_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM338_KPTD_485_uterus_mibi (1,588 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM338_KPTD_485_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM338_KPTD_485_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM339_JVHD_976_uterus_mibi (4,702 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM339_JVHD_976_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM339_JVHD_976_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM339_XXWC_842_thymus_codex (137,893 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM339_XXWC_842_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM339_XXWC_842_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM342_FSLD_938_spleen_codex (245,545 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM342_FSLD_938_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM342_FSLD_938_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM342_JTKN_834_lymphnode_codex (117,490 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM342_JTKN_834_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM342_JTKN_834_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM348_KSHK_482_uterus_mibi (1,231 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM348_KSHK_482_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM348_KSHK_482_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM349_XMLL_699_uterus_mibi (1,371 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM349_XMLL_699_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM349_XMLL_699_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM352_MDZF_598_intestine_codex (35,643 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM352_MDZF_598_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM352_MDZF_598_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM352_ZMMK_237_uterus_mibi (2,679 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM352_ZMMK_237_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM352_ZMMK_237_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM353_KBTW_556_uterus_mibi (1,955 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM353_KBTW_556_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM353_KBTW_556_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM354_SLNR_553_uterus_mibi (1,575 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM354_SLNR_553_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM354_SLNR_553_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM354_SVBP_894_uterus_mibi (2,537 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM354_SVBP_894_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM354_SVBP_894_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM355_CZJX_599_lymphnode_codex (196,235 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_CZJX_599_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_CZJX_599_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM355_JDLK_244_spleen_codex (194,019 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_JDLK_244_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_JDLK_244_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM355_PMSX_677_uterus_mibi (3,359 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_PMSX_677_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM355_PMSX_677_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM357_LSBK_728_uterus_mibi (1,325 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM357_LSBK_728_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM357_LSBK_728_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM359_DTZL_543_uterus_mibi (2,792 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM359_DTZL_543_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM359_DTZL_543_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM367_JLJV_287_uterus_mibi (1,128 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM367_JLJV_287_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM367_JLJV_287_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM367_QMZK_885_uterus_mibi (2,040 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM367_QMZK_885_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM367_QMZK_885_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM368_PZJV_258_uterus_mibi (1,892 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM368_PZJV_258_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM368_PZJV_258_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM369_TVNZ_782_uterus_mibi (1,798 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM369_TVNZ_782_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM369_TVNZ_782_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM374_DMXZ_352_thymus_codex (66,657 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_DMXZ_352_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_DMXZ_352_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM374_LLKS_325_spleen_codex (162,754 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_LLKS_325_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_LLKS_325_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM374_NBPR_367_uterus_mibi (4,196 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_NBPR_367_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM374_NBPR_367_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM376_QCCJ_269_thymus_codex (472,434 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM376_QCCJ_269_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM376_QCCJ_269_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM383_LXSQ_768_uterus_mibi (1,286 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM383_LXSQ_768_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM383_LXSQ_768_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM385_MRXX_887_uterus_mibi (1,401 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM385_MRXX_887_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM385_MRXX_887_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM386_ZHWD_475_uterus_mibi (2,983 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM386_ZHWD_475_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM386_ZHWD_475_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM386_ZKLM_879_uterus_mibi (3,324 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM386_ZKLM_879_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM386_ZKLM_879_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM389_PKHL_936_spleen_codex (156,436 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM389_PKHL_936_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM389_PKHL_936_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM396_FNQW_543_intestine_codex (45,009 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM396_FNQW_543_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM396_FNQW_543_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM398_SWKV_256_intestine_codex (55,102 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM398_SWKV_256_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM398_SWKV_256_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM423_MMGW_744_intestine_codex (12,818 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM423_MMGW_744_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM423_MMGW_744_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM423_QJJR_545_intestine_codex (51,337 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM423_QJJR_545_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM423_QJJR_545_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM426_BLGP_789_uterus_mibi (3,007 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM426_BLGP_789_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM426_BLGP_789_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM426_LLTT_655_lymphnode_codex (135,145 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM426_LLTT_655_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM426_LLTT_655_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM427_SMGB_866_spleen_codex (270,305 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM427_SMGB_866_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM427_SMGB_866_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM428_WPXP_979_uterus_mibi (5,159 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM428_WPXP_979_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM428_WPXP_979_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM428_ZKRH_262_uterus_mibi (4,042 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM428_ZKRH_262_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM428_ZKRH_262_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM429_DWKZ_323_intestine_codex (30,523 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM429_DWKZ_323_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM429_DWKZ_323_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM432_LLCF_677_spleen_codex (172,877 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM432_LLCF_677_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM432_LLCF_677_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM433_ZLWP_627_intestine_codex (23,843 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM433_ZLWP_627_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM433_ZLWP_627_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM434_GJQF_366_uterus_mibi (4,600 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM434_GJQF_366_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM434_GJQF_366_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM439_HFGX_695_uterus_mibi (2,168 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM439_HFGX_695_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM439_HFGX_695_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM443_XPDK_549_intestine_codex (27,924 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM443_XPDK_549_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM443_XPDK_549_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM446_RBDJ_452_uterus_mibi (854 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM446_RBDJ_452_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM446_RBDJ_452_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM447_CTPP_495_uterus_mibi (2,363 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM447_CTPP_495_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM447_CTPP_495_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM448_FXRB_555_uterus_mibi (1,331 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM448_FXRB_555_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM448_FXRB_555_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM448_WCWB_444_uterus_mibi (4,238 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM448_WCWB_444_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM448_WCWB_444_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM452_KWSP_459_uterus_mibi (4,042 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM452_KWSP_459_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM452_KWSP_459_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM456_CLDP_753_uterus_mibi (1,381 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM456_CLDP_753_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM456_CLDP_753_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM456_XQLG_678_uterus_mibi (3,308 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM456_XQLG_678_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM456_XQLG_678_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM457_JZFF_434_lymphnode_codex (191,692 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM457_JZFF_434_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM457_JZFF_434_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM457_QJSC_438_uterus_mibi (3,954 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM457_QJSC_438_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM457_QJSC_438_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM458_JHBQ_969_uterus_mibi (2,632 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM458_JHBQ_969_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM458_JHBQ_969_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM463_SQHJ_376_uterus_mibi (2,307 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM463_SQHJ_376_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM463_SQHJ_376_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM467_CVLD_644_uterus_mibi (1,954 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_CVLD_644_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_CVLD_644_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM467_LMBG_759_uterus_mibi (4,398 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_LMBG_759_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_LMBG_759_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM467_RVKV_883_uterus_mibi (1,545 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_RVKV_883_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM467_RVKV_883_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM475_DXDC_532_intestine_codex (55,613 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM475_DXDC_532_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM475_DXDC_532_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM477_KGGP_574_uterus_mibi (1,849 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM477_KGGP_574_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM477_KGGP_574_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM482_NHCD_375_uterus_mibi (4,047 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM482_NHCD_375_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM482_NHCD_375_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM483_KDBW_482_lymphnode_codex (93,721 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM483_KDBW_482_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM483_KDBW_482_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM485_ZGHC_972_uterus_mibi (2,925 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM485_ZGHC_972_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM485_ZGHC_972_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM492_LXSS_627_lymphnode_codex (45,512 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM492_LXSS_627_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM492_LXSS_627_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM492_ZVKW_999_uterus_mibi (3,107 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM492_ZVKW_999_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM492_ZVKW_999_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM494_VNTQ_422_intestine_codex (37,038 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM494_VNTQ_422_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM494_VNTQ_422_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM495_DFNT_747_uterus_mibi (1,601 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_DFNT_747_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_DFNT_747_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM495_MJDQ_587_uterus_mibi (1,741 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_MJDQ_587_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_MJDQ_587_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM495_VXPX_373_uterus_mibi (2,193 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_VXPX_373_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM495_VXPX_373_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM496_HPHV_342_uterus_mibi (2,625 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM496_HPHV_342_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM496_HPHV_342_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM496_QTTN_457_uterus_mibi (5,224 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM496_QTTN_457_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM496_QTTN_457_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM497_DJZH_744_uterus_mibi (1,548 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM497_DJZH_744_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM497_DJZH_744_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM498_TCSV_345_spleen_codex (163,119 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM498_TCSV_345_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM498_TCSV_345_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM522_CFLM_852_uterus_mibi (1,801 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM522_CFLM_852_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM522_CFLM_852_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM523_XHWW_384_intestine_codex (36,434 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM523_XHWW_384_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM523_XHWW_384_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM523_ZFKM_398_lymphnode_codex (52,164 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM523_ZFKM_398_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM523_ZFKM_398_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM524_JFVN_863_uterus_mibi (2,442 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM524_JFVN_863_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM524_JFVN_863_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM524_VWGB_378_intestine_codex (64,363 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM524_VWGB_378_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM524_VWGB_378_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM525_BZJC_926_uterus_mibi (2,089 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM525_BZJC_926_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM525_BZJC_926_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM525_JLPD_977_uterus_mibi (1,527 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM525_JLPD_977_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM525_JLPD_977_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM526_FFGJ_297_uterus_mibi (4,363 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM526_FFGJ_297_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM526_FFGJ_297_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM527_DXPQ_356_uterus_mibi (914 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM527_DXPQ_356_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM527_DXPQ_356_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM529_QFWC_259_uterus_mibi (2,767 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM529_QFWC_259_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM529_QFWC_259_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM534_CDWW_587_uterus_mibi (2,645 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_CDWW_587_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_CDWW_587_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM534_JJHB_889_uterus_mibi (2,039 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_JJHB_889_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_JJHB_889_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM534_ZDNW_945_uterus_mibi (589 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_ZDNW_945_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM534_ZDNW_945_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM537_JPHF_622_uterus_mibi (3,252 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM537_JPHF_622_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM537_JPHF_622_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM538_PGFT_538_intestine_codex (23,620 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM538_PGFT_538_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM538_PGFT_538_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM539_PKZN_553_uterus_mibi (1,837 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM539_PKZN_553_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM539_PKZN_553_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM539_WTJT_464_uterus_mibi (2,136 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM539_WTJT_464_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM539_WTJT_464_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM543_RSRV_265_spleen_codex (166,799 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM543_RSRV_265_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM543_RSRV_265_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM546_NPGH_532_uterus_mibi (3,134 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM546_NPGH_532_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM546_NPGH_532_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM547_PWMC_589_uterus_mibi (2,074 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM547_PWMC_589_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM547_PWMC_589_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM548_TSMP_663_spleen_codex (150,953 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM548_TSMP_663_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM548_TSMP_663_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM549_CJSK_997_uterus_mibi (4,075 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM549_CJSK_997_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM549_CJSK_997_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM549_JNKH_249_uterus_mibi (2,203 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM549_JNKH_249_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM549_JNKH_249_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM552_JXCB_872_uterus_mibi (1,813 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM552_JXCB_872_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM552_JXCB_872_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM554_TVPR_268_uterus_mibi (1,649 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM554_TVPR_268_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM554_TVPR_268_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM555_ZNTK_962_uterus_mibi (2,977 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM555_ZNTK_962_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM555_ZNTK_962_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM556_KSFB_592_spleen_codex (143,424 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM556_KSFB_592_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM556_KSFB_592_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM557_PZRZ_633_uterus_mibi (3,012 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM557_PZRZ_633_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM557_PZRZ_633_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM558_KGML_422_uterus_mibi (1,157 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM558_KGML_422_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM558_KGML_422_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM558_SRZG_629_spleen_codex (156,548 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM558_SRZG_629_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM558_SRZG_629_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM559_JCQF_496_uterus_mibi (3,269 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM559_JCQF_496_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM559_JCQF_496_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM562_BDQQ_934_uterus_mibi (4,020 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM562_BDQQ_934_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM562_BDQQ_934_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM562_FGZT_852_uterus_mibi (2,337 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM562_FGZT_852_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM562_FGZT_852_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM564_DSPG_945_intestine_codex (16,823 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM564_DSPG_945_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM564_DSPG_945_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM565_BMSB_555_uterus_mibi (1,897 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM565_BMSB_555_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM565_BMSB_555_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM566_ZCSF_285_uterus_mibi (4,152 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM566_ZCSF_285_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM566_ZCSF_285_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM568_NGPL_345_spleen_codex (158,154 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM568_NGPL_345_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM568_NGPL_345_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM573_VSJK_526_lymphnode_codex (64,748 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM573_VSJK_526_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM573_VSJK_526_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM574_RBCK_759_uterus_mibi (4,644 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM574_RBCK_759_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM574_RBCK_759_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM575_MTPD_997_lymphnode_codex (109,874 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM575_MTPD_997_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM575_MTPD_997_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM576_GRBW_848_uterus_mibi (1,761 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM576_GRBW_848_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM576_GRBW_848_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM576_HCWQ_728_uterus_mibi (2,372 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM576_HCWQ_728_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM576_HCWQ_728_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM578_RPXL_745_uterus_mibi (2,220 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM578_RPXL_745_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM578_RPXL_745_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM578_XJZQ_389_intestine_codex (16,467 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM578_XJZQ_389_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM578_XJZQ_389_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM587_VTDD_789_intestine_codex (29,372 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM587_VTDD_789_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM587_VTDD_789_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM594_GWVL_995_uterus_mibi (1,815 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM594_GWVL_995_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM594_GWVL_995_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM595_CCLS_824_uterus_mibi (1,762 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM595_CCLS_824_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM595_CCLS_824_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM597_QSZV_956_thymus_codex (177,554 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM597_QSZV_956_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM597_QSZV_956_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM599_BFHP_494_intestine_codex (51,508 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM599_BFHP_494_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM599_BFHP_494_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM622_PXTN_854_uterus_mibi (1,999 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM622_PXTN_854_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM622_PXTN_854_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM623_TSMG_452_lymphnode_codex (88,119 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM623_TSMG_452_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM623_TSMG_452_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM624_XMRV_622_uterus_mibi (3,565 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM624_XMRV_622_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM624_XMRV_622_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM625_BPDM_987_intestine_codex (75,245 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM625_BPDM_987_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM625_BPDM_987_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM625_WNHZ_662_uterus_mibi (2,199 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM625_WNHZ_662_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM625_WNHZ_662_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM629_DBKM_347_intestine_codex (34,850 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM629_DBKM_347_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM629_DBKM_347_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM633_CLVN_674_spleen_codex (160,782 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM633_CLVN_674_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM633_CLVN_674_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM634_GHPH_986_uterus_mibi (1,264 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM634_GHPH_986_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM634_GHPH_986_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM634_MSKL_575_intestine_codex (14,079 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM634_MSKL_575_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM634_MSKL_575_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM636_GTZK_259_intestine_codex (37,963 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM636_GTZK_259_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM636_GTZK_259_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM638_HWQZ_266_uterus_mibi (1,838 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM638_HWQZ_266_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM638_HWQZ_266_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM639_JHBT_479_uterus_mibi (2,833 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM639_JHBT_479_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM639_JHBT_479_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM642_BQBQ_999_uterus_mibi (2,972 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM642_BQBQ_999_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM642_BQBQ_999_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM644_QKZS_857_intestine_codex (73,535 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM644_QKZS_857_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM644_QKZS_857_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM645_QBFQ_879_uterus_mibi (3,331 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM645_QBFQ_879_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM645_QBFQ_879_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM646_ZRTZ_549_uterus_mibi (3,218 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM646_ZRTZ_549_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM646_ZRTZ_549_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM647_MFQB_496_spleen_codex (201,804 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM647_MFQB_496_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM647_MFQB_496_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM649_QJJM_548_uterus_mibi (1,350 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM649_QJJM_548_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM649_QJJM_548_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM653_FMZX_257_uterus_mibi (1,507 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM653_FMZX_257_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM653_FMZX_257_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM654_KTJK_968_thymus_codex (58,382 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM654_KTJK_968_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM654_KTJK_968_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM654_MLRM_725_intestine_codex (45,601 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM654_MLRM_725_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM654_MLRM_725_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM656_WRHJ_584_uterus_mibi (2,618 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM656_WRHJ_584_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM656_WRHJ_584_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM657_JVPV_825_intestine_codex (17,953 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM657_JVPV_825_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM657_JVPV_825_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM658_HHLH_689_intestine_codex (16,397 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM658_HHLH_689_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM658_HHLH_689_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM658_WGPT_978_intestine_codex (76,833 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM658_WGPT_978_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM658_WGPT_978_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM659_XHFH_996_spleen_codex (143,374 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM659_XHFH_996_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM659_XHFH_996_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM665_ZMNL_735_uterus_mibi (3,449 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM665_ZMNL_735_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM665_ZMNL_735_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM675_RHMB_532_uterus_mibi (1,515 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM675_RHMB_532_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM675_RHMB_532_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM676_VBCN_445_intestine_codex (31,533 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM676_VBCN_445_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM676_VBCN_445_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM678_BNTK_599_uterus_mibi (1,301 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM678_BNTK_599_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM678_BNTK_599_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM685_PCCJ_427_intestine_codex (29,299 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM685_PCCJ_427_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM685_PCCJ_427_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM687_CWVH_758_spleen_codex (149,156 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM687_CWVH_758_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM687_CWVH_758_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM688_XSDW_776_uterus_mibi (1,897 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM688_XSDW_776_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM688_XSDW_776_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM689_DMZD_693_uterus_mibi (3,222 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM689_DMZD_693_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM689_DMZD_693_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM692_JWNQ_842_uterus_mibi (3,015 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM692_JWNQ_842_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM692_JWNQ_842_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM692_LRPB_358_uterus_mibi (2,236 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM692_LRPB_358_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM692_LRPB_358_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM693_GXCW_762_uterus_mibi (2,529 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM693_GXCW_762_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM693_GXCW_762_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM694_KGHJ_534_uterus_mibi (1,166 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM694_KGHJ_534_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM694_KGHJ_534_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM695_PKFW_682_uterus_mibi (2,416 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM695_PKFW_682_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM695_PKFW_682_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM696_QBDC_928_uterus_mibi (2,935 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM696_QBDC_928_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM696_QBDC_928_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM699_QBTP_684_uterus_mibi (4,098 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM699_QBTP_684_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM699_QBTP_684_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM723_BZKF_992_lymphnode_codex (190,027 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM723_BZKF_992_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM723_BZKF_992_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM724_PJNC_827_spleen_codex (158,280 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM724_PJNC_827_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM724_PJNC_827_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM725_QFKT_594_intestine_codex (16,291 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM725_QFKT_594_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM725_QFKT_594_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM726_KXWB_325_uterus_mibi (2,813 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM726_KXWB_325_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM726_KXWB_325_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM727_VZCG_863_uterus_mibi (3,183 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM727_VZCG_863_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM727_VZCG_863_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM729_NHJF_956_uterus_mibi (2,138 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM729_NHJF_956_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM729_NHJF_956_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM732_LRMF_287_uterus_mibi (1,586 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM732_LRMF_287_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM732_LRMF_287_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM735_PSTF_274_intestine_codex (36,003 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM735_PSTF_274_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM735_PSTF_274_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM735_PWVL_294_uterus_mibi (3,190 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM735_PWVL_294_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM735_PWVL_294_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM746_ZTBR_275_lymphnode_codex (130,929 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM746_ZTBR_275_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM746_ZTBR_275_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM747_CQKL_785_lymphnode_codex (110,063 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM747_CQKL_785_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM747_CQKL_785_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM747_RHFN_588_uterus_mibi (3,131 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM747_RHFN_588_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM747_RHFN_588_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM749_PPQP_849_intestine_codex (30,626 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM749_PPQP_849_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM749_PPQP_849_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM753_VDXD_934_intestine_codex (25,334 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM753_VDXD_934_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM753_VDXD_934_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM754_SFBF_894_intestine_codex (20,642 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM754_SFBF_894_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM754_SFBF_894_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM754_WKLP_262_lymphnode_codex (208,102 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM754_WKLP_262_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM754_WKLP_262_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM757_VHCK_858_thymus_codex (192,951 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM757_VHCK_858_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM757_VHCK_858_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM764_NXMM_785_uterus_mibi (3,087 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM764_NXMM_785_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM764_NXMM_785_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM769_NBQL_534_thymus_codex (201,778 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM769_NBQL_534_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM769_NBQL_534_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM772_CSQS_353_uterus_mibi (1,260 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_CSQS_353_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_CSQS_353_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM772_HCWX_787_uterus_mibi (1,231 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_HCWX_787_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_HCWX_787_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM772_XXCD_697_spleen_codex (149,827 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_XXCD_697_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM772_XXCD_697_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM773_PVXD_869_uterus_mibi (3,790 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM773_PVXD_869_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM773_PVXD_869_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM774_GNCD_967_uterus_mibi (3,525 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM774_GNCD_967_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM774_GNCD_967_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM775_LKTG_696_uterus_mibi (2,847 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM775_LKTG_696_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM775_LKTG_696_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM776_FNRJ_959_intestine_codex (50,163 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_FNRJ_959_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_FNRJ_959_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM776_KFMZ_755_uterus_mibi (2,590 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_KFMZ_755_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_KFMZ_755_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM776_SDCW_837_intestine_codex (32,516 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_SDCW_837_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM776_SDCW_837_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM777_TLQL_487_intestine_codex (32,838 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM777_TLQL_487_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM777_TLQL_487_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM777_TLQL_487_reg002_intestine_codex (31,223 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM777_TLQL_487_reg002_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM777_TLQL_487_reg002_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM784_HVPG_384_uterus_mibi (1,827 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM784_HVPG_384_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM784_HVPG_384_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM784_TKZX_992_intestine_codex (21,149 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM784_TKZX_992_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM784_TKZX_992_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM785_QGFZ_856_uterus_mibi (4,853 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM785_QGFZ_856_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM785_QGFZ_856_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM786_VLVN_435_uterus_mibi (1,870 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM786_VLVN_435_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM786_VLVN_435_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM789_XSZP_797_uterus_mibi (2,930 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM789_XSZP_797_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM789_XSZP_797_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM795_GWKV_825_intestine_codex (25,686 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM795_GWKV_825_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM795_GWKV_825_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM796_NKQB_286_uterus_mibi (3,950 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM796_NKQB_286_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM796_NKQB_286_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM796_TZPX_595_uterus_mibi (1,495 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM796_TZPX_595_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM796_TZPX_595_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM798_MXFT_837_lymphnode_codex (62,548 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_MXFT_837_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_MXFT_837_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM798_WZKK_699_uterus_mibi (3,266 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_WZKK_699_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_WZKK_699_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM798_XDVP_432_uterus_mibi (1,550 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_XDVP_432_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM798_XDVP_432_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM825_PBVN_284_spleen_codex (132,905 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM825_PBVN_284_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM825_PBVN_284_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM829_FTCD_454_uterus_mibi (2,037 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_FTCD_454_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_FTCD_454_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM829_PDDG_496_uterus_mibi (1,935 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_PDDG_496_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_PDDG_496_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM829_QZQP_626_intestine_codex (31,176 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_QZQP_626_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM829_QZQP_626_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM834_ZFVJ_978_lymphnode_codex (158,586 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM834_ZFVJ_978_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM834_ZFVJ_978_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM836_RWTL_263_uterus_mibi (2,268 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM836_RWTL_263_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM836_RWTL_263_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM837_GSBZ_237_uterus_mibi (3,874 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_GSBZ_237_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_GSBZ_237_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM837_KNJV_852_uterus_mibi (1,363 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_KNJV_852_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_KNJV_852_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM837_RHNC_533_intestine_codex (30,334 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_RHNC_533_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM837_RHNC_533_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM838_VLBV_829_uterus_mibi (1,949 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM838_VLBV_829_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM838_VLBV_829_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM842_LQDP_877_intestine_codex (35,276 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM842_LQDP_877_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM842_LQDP_877_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM845_PKDG_353_uterus_mibi (2,073 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM845_PKDG_353_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM845_PKDG_353_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM848_MJVK_888_uterus_mibi (1,884 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM848_MJVK_888_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM848_MJVK_888_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM852_WWTR_224_uterus_mibi (2,017 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM852_WWTR_224_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM852_WWTR_224_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM857_KSRQ_839_uterus_mibi (1,299 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM857_KSRQ_839_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM857_KSRQ_839_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM857_WQJX_764_uterus_mibi (4,212 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM857_WQJX_764_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM857_WQJX_764_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM862_DDDQ_629_uterus_mibi (1,515 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM862_DDDQ_629_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM862_DDDQ_629_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM862_GJRT_992_uterus_mibi (3,431 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM862_GJRT_992_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM862_GJRT_992_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM866_TGNJ_847_lymphnode_codex (181,035 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM866_TGNJ_847_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM866_TGNJ_847_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM869_VZJM_366_lymphnode_codex (52,487 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM869_VZJM_366_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM869_VZJM_366_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM875_MRXW_469_uterus_mibi (3,791 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM875_MRXW_469_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM875_MRXW_469_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM882_DBTR_869_spleen_codex (176,476 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM882_DBTR_869_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM882_DBTR_869_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM883_PBZB_248_uterus_mibi (2,774 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM883_PBZB_248_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM883_PBZB_248_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM885_KDQV_248_uterus_mibi (2,256 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM885_KDQV_248_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM885_KDQV_248_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM885_LXGS_976_uterus_mibi (1,459 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM885_LXGS_976_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM885_LXGS_976_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM886_BWML_747_uterus_mibi (2,602 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM886_BWML_747_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM886_BWML_747_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM886_NTZN_682_intestine_codex (16,115 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM886_NTZN_682_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM886_NTZN_682_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM887_DPRS_422_uterus_mibi (3,415 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM887_DPRS_422_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM887_DPRS_422_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM887_TLXR_894_uterus_mibi (4,036 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM887_TLXR_894_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM887_TLXR_894_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM889_KDGM_632_intestine_codex (30,766 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM889_KDGM_632_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM889_KDGM_632_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM892_HBJW_994_thymus_codex (25,357 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM892_HBJW_994_thymus_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM892_HBJW_994_thymus_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM893_GWWT_254_uterus_mibi (1,303 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM893_GWWT_254_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM893_GWWT_254_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM894_NXBD_956_uterus_mibi (4,044 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM894_NXBD_956_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM894_NXBD_956_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM925_CJTM_862_uterus_mibi (4,028 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM925_CJTM_862_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM925_CJTM_862_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM926_SHNZ_594_intestine_codex (27,246 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM926_SHNZ_594_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM926_SHNZ_594_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM927_KDXB_445_lymphnode_codex (46,471 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM927_KDXB_445_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM927_KDXB_445_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM929_PRKH_522_intestine_codex (23,773 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM929_PRKH_522_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM929_PRKH_522_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM935_XGNV_348_uterus_mibi (1,562 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM935_XGNV_348_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM935_XGNV_348_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM937_XPRG_696_intestine_codex (33,074 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM937_XPRG_696_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM937_XPRG_696_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM938_GRRV_389_uterus_mibi (1,994 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM938_GRRV_389_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM938_GRRV_389_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM942_WHFC_488_intestine_codex (22,672 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM942_WHFC_488_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM942_WHFC_488_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM944_CKWN_576_uterus_mibi (2,328 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM944_CKWN_576_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM944_CKWN_576_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM946_GRVG_379_intestine_codex (24,967 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM946_GRVG_379_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM946_GRVG_379_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM946_NWTV_278_intestine_codex (26,511 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM946_NWTV_278_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM946_NWTV_278_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM953_JHWJ_752_uterus_mibi (2,170 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_JHWJ_752_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_JHWJ_752_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM953_LMWQ_235_intestine_codex (19,576 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_LMWQ_235_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_LMWQ_235_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM953_NPDJ_575_intestine_codex (38,177 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_NPDJ_575_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_NPDJ_575_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM953_WBFB_656_uterus_mibi (2,717 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_WBFB_656_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM953_WBFB_656_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM957_JXKN_887_lymphnode_codex (179,795 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM957_JXKN_887_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM957_JXKN_887_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM958_GGVQ_546_lymphnode_codex (219,275 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM958_GGVQ_546_lymphnode_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM958_GGVQ_546_lymphnode_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM959_BVWN_344_intestine_codex (26,224 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM959_BVWN_344_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM959_BVWN_344_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM962_BFPH_344_intestine_codex (39,357 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM962_BFPH_344_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM962_BFPH_344_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM962_KNCK_947_uterus_mibi (3,328 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM962_KNCK_947_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM962_KNCK_947_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM964_LVPL_638_uterus_mibi (2,627 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM964_LVPL_638_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM964_LVPL_638_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM964_TWTV_455_uterus_mibi (3,009 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM964_TWTV_455_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM964_TWTV_455_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM966_BLFS_983_uterus_mibi (1,149 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM966_BLFS_983_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM966_BLFS_983_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM966_NKXF_465_uterus_mibi (2,611 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM966_NKXF_465_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM966_NKXF_465_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM968_CJLB_479_spleen_codex (175,557 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM968_CJLB_479_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM968_CJLB_479_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM969_SDKG_788_uterus_mibi (1,979 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM969_SDKG_788_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM969_SDKG_788_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM972_FWFL_332_uterus_mibi (4,883 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM972_FWFL_332_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM972_FWFL_332_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM972_WNBG_933_intestine_codex (13,989 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM972_WNBG_933_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM972_WNBG_933_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM973_GHQH_368_uterus_mibi (2,865 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM973_GHQH_368_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM973_GHQH_368_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM973_LQCM_488_uterus_mibi (1,101 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM973_LQCM_488_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM973_LQCM_488_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM976_DFCV_879_uterus_mibi (2,874 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM976_DFCV_879_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM976_DFCV_879_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM977_JQGH_993_uterus_mibi (777 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM977_JQGH_993_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM977_JQGH_993_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM978_KXLG_227_uterus_mibi (2,831 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM978_KXLG_227_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM978_KXLG_227_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM979_KDPM_382_uterus_mibi (1,162 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM979_KDPM_382_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM979_KDPM_382_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM982_WKHJ_983_uterus_mibi (2,306 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM982_WKHJ_983_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM982_WKHJ_983_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM987_XGTH_368_spleen_codex (242,563 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM987_XGTH_368_spleen_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM987_XGTH_368_spleen_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM992_WLFD_899_uterus_mibi (2,394 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM992_WLFD_899_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM992_WLFD_899_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM994_KDNT_678_intestine_codex (14,230 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM994_KDNT_678_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM994_KDNT_678_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM994_PDJN_987_uterus_mibi (2,856 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM994_PDJN_987_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM994_PDJN_987_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM995_WMDN_689_intestine_codex (32,310 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM995_WMDN_689_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM995_WMDN_689_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM996_CGFD_228_intestine_codex (4,821 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM996_CGFD_228_intestine_codex-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM996_CGFD_228_intestine_codex-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM996_GKXH_482_uterus_mibi (1,802 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM996_GKXH_482_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM996_GKXH_482_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM997_FRKV_293_uterus_mibi (1,996 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM997_FRKV_293_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM997_FRKV_293_uterus_mibi-edges.csv",
+    "node-target-key": "Level Three Cell Type",
+    "node-target-value": "endothelial cell",
+    "max-edge-distance": 200
+  },
+  {
+    "label": "hubmap-mirror-deepcell / HBM999_MJZX_394_uterus_mibi (2,527 cells)",
+    "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM999_MJZX_394_uterus_mibi-nodes.csv",
+    "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/hubmap-mirror-deepcell/HBM999_MJZX_394_uterus_mibi-edges.csv",
     "node-target-key": "Level Three Cell Type",
     "node-target-value": "endothelial cell",
     "max-edge-distance": 200
@@ -2844,7 +5556,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_1-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2852,7 +5564,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_2-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Buccal_Mucosa_And_Minor_Salivary_Glands_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2860,7 +5572,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID1_shiny-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID1_shiny-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2868,7 +5580,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID5_shiny-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Gingiva_ID5_shiny-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2876,7 +5588,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_1-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2884,7 +5596,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_2-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2892,7 +5604,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_3-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2900,7 +5612,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_4-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Parotid_4-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2908,7 +5620,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_1-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_1-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2916,7 +5628,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_2-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Submandibular_2-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2924,7 +5636,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue_3-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue_3-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2932,7 +5644,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__1-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__1-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -2940,7 +5652,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__2-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/oralcavity-codex-czi/Tongue__2-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of vascular tree",
     "max-edge-distance": 200
   },
   {
@@ -3148,7 +5860,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/FSLD-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/FSLD-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -3156,7 +5868,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/KSFB-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/KSFB-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -3164,7 +5876,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/NGPL-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/NGPL-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -3172,7 +5884,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PBVN-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PBVN-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -3180,7 +5892,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PKHL-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/PKHL-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {
@@ -3188,7 +5900,7 @@
     "nodes": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/XXCD-nodes.csv",
     "edges": "https://cdn.humanatlas.io/image-store/vccf-data-cell-nodes/published/spleen-codex-ufl/XXCD-edges.csv",
     "node-target-key": "Level Three Cell Type",
-    "node-target-value": "endothelial cell",
+    "node-target-value": "endothelial cell of sinusoid",
     "max-edge-distance": 200
   },
   {

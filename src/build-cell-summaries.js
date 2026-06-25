@@ -8,7 +8,7 @@ const CSV_FILES = 'input-data/image-store/vccf-data-cell-nodes/published/*/*-nod
 const CELL_SUMMARIES = 'output-data/sc-proteomics-cell-summaries.jsonld';
 const CELL_DATASETS = 'output-data/sc-proteomics-dataset-metadata.csv';
 const UNMAPPED_LABELS = 'output-data/sc-proteomics-unmapped-labels.csv';
-const CROSSWALK_URL = 'https://docs.google.com/spreadsheets/d/1cfIGMoYpICKp20tnh9nPrKjZ-gs4R1YraWGj5SRzVnQ/edit?gid=0';
+const CROSSWALK_URL = 'https://docs.google.com/spreadsheets/d/1OV5LBWutJpzUyDKNpnXdlQOMfhn340hZwXs8-YpAX1Q/edit?gid=0';
 
 /**
  * Normalize a csv url for downloading
