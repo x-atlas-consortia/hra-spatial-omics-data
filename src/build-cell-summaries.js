@@ -8,7 +8,8 @@ const CSV_FILES = 'input-data/image-store/vccf-data-cell-nodes/published/*/*-nod
 const CELL_SUMMARIES = 'output-data/sc-proteomics-cell-summaries.jsonld';
 const CELL_DATASETS = 'output-data/sc-proteomics-dataset-metadata.csv';
 const UNMAPPED_LABELS = 'output-data/sc-proteomics-unmapped-labels.csv';
-const CROSSWALK_URL = 'https://docs.google.com/spreadsheets/d/1OV5LBWutJpzUyDKNpnXdlQOMfhn340hZwXs8-YpAX1Q/edit?gid=0';
+const CROSSWALK_URL = 'https://purl.humanatlas.io/ctann/vccf';
+const DEEPCELL_CROSSWALK_URL = 'https://purl.humanatlas.io/ctann/deepcelltypes-hubmap';
 
 /**
  * Normalize a csv url for downloading
@@ -88,19 +89,14 @@ async function getCrosswalk(url) {
   if (crosswalkCache[url]) {
     return crosswalkCache[url];
   } else {
-    const req = await fetch(url);
+    const req = await fetch(url, { headers: { Accept: 'application/json' } });
     if (req.ok) {
-      const csvText = await req.text();
-      const rows = Papa.parse(csvText, { skipEmptyLines: true }).data;
-      const headerRow = rows.findIndex((row) => row.includes('Annotation_Label'));
-      const header = rows[headerRow] ?? [];
-      const labelIndex = header.indexOf('Annotation_Label');
-      const clIndex = header.indexOf('CL_ID');
-      const crosswalk = {};
-      for (const row of rows.slice(headerRow + 1)) {
-        const cellLabel = normalizeCellType(undefined, row[labelIndex]);
-        crosswalk[cellLabel] = row[clIndex];
-      }
+      const data = await req.json();
+      const crosswalk = data.data.mappings.reduce((acc, row) => {
+        const cellLabel = normalizeCellType(undefined, row.subject_label);
+        acc[cellLabel] = row.object_id;
+        return acc;
+      }, {});
       crosswalkCache[url] = crosswalk;
       return crosswalk;
     } else {
@@ -119,10 +115,14 @@ for (const nodesFile of globSync(CSV_FILES).sort()) {
     const group = basename(dirname(nodesFile));
     const dataset = JSON.parse(readFileSync(datasetFile));
 
-    let crosswalk = {};
-    groupCrosswalkUsed[group] = CROSSWALK_URL;
-    const url = normalizeCsvUrl(CROSSWALK_URL);
-    crosswalk = await getCrosswalk(url);
+    let crosswalkUrl = CROSSWALK_URL;
+    if (group.startsWith('hubmap-mirror-ftu-')) {
+      crosswalkUrl = DEEPCELL_CROSSWALK_URL;
+    }
+
+    groupCrosswalkUsed[group] = crosswalkUrl;
+    const url = normalizeCsvUrl(crosswalkUrl);
+    const crosswalk = await getCrosswalk(url);
     const { totalCells, summary } = await getSummary(nodesFile, crosswalk);
 
     results.push({
@@ -150,7 +150,7 @@ const unmappedRows = Object.entries(unmapped)
       group,
       cell_label,
       crosswalk: groupCrosswalkUsed[group],
-    }))
+    })),
   )
   .flat();
 writeFileSync(UNMAPPED_LABELS, Papa.unparse(unmappedRows, { header: true }));
